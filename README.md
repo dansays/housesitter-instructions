@@ -38,7 +38,7 @@ The pads are strictly single-use, so once soiled, promptly discard and replace, 
 
 Medication is given twice a day. Hiding her pills in a dogfood meatball is the easiest way for the medicine to go down. Here's the technique we use:
 
-1. Wear latex gloves. She's on some heavy-duty shit that has to be handled carefully.
+1. Wear latex gloves! She's on some heavy-duty shit that has to be handled carefully.
 2. Gather her pills onto a small square of paper towel, into a pharmaceutical mise en place of sorts. 
 3. Grab a small scoop of wet dog food with one hand.
 4. With the other hand, spread a smear of peanut butter onto the top of the dog food with a butter knife.
@@ -70,16 +70,16 @@ Her evening pill regimen is simpler:
 
 Our good friends, Dan & Katie (no relation), have helpfully provided local food options, should you not wish to travel into the city:
 
-- Mexican: Taqueria Downtown or Sol Azteca
-- Indian: Amiya
-- Turkish: Rumi (right across the street)
-- American: Amelia’s
-- Ramen: Kitakata
-- Chinese: Taste of North China
-- Poke: Tidal Poke
-- Specialty: Wurstbar (gourmet brats and dogs)
+- Mexican: [Taqueria Downtown](http://www.taqueriadowntowncateringco.com) or [Tacos Victoria](http://tacosvictoria.com)
+- Indian: [Amiya](http://www.amiyarestaurant.com)
+- Turkish: [Rumi](http://rumiturkishgrill.com) (right across the street)
+- American: [Amelia’s Bistro](http://www.ameliasbistro.com)
+- Ramen: [Kitakata](http://ramenbannai.com)
+- Chinese: [Taste of North China](http://www.tasteofnorthchinajc.com)
+- Poke: [Tidal Poke](http://tidalpoke.co)
+- Specialty: [Wurstbar](https://www.wurstbarjc.com) (gourmet brats and dogs)
 
-We're also fond of Matthews, and have enjoyed many a fine cocktail at both Dullboy and The Archer. And if you like pizza, Razza's is groin-grabbingly transcendent. (Expect a wait.)
+We're also fond of [Matthews](https://www.mathewsfoodanddrink.com), and have enjoyed many a fine cocktail at both [Dullboy](https://www.dullboybar.com) and [The Archer](http://www.archerbar.com). And if you like pizza, [Razza](https://razzanj.com) is groin-grabbingly transcendent. (Expect a wait.)
 	
 ## Building Amenities
 
