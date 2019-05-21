@@ -1,3 +1,5 @@
 title: "Housesitter* Instructions"
 description: "* Sitting optional. You're free to move about as you please."
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
