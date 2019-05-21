@@ -19,6 +19,7 @@ The PATH to WTC will be closed on non-holiday weekends for the next two fucking 
 If you need help with anything, just ask, "Alexa, open the apartment guide." She knows where everything is. You can ask her things like:
 
 - Where is the dog leash?
+- What's the wifi password?
 - How do I turn on the television?
 - What's the phone number for the vet?
 - When will this dystopian nightmare finally end?
