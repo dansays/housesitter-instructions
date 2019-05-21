@@ -1,5 +1,3 @@
-# Housesitter Instructions
-
 Welcome to Jersey City! Located conveniently across the Hudson River from Manhattan, our neighborhood offers many amenities not afforded us in our former West Village apartment, such as:
 
 - An outdoor pool and fire pit!
