@@ -38,6 +38,8 @@ The pads are strictly single-use, so once soiled, promptly discard and replace, 
 
 Medication is given twice a day. Hiding her pills in a dogfood meatball is the easiest way for the medicine to go down. Here's the technique we use:
 
+![Meatbell](meatball.jpg)
+
 1. Wear latex gloves! She's on some heavy-duty shit that has to be handled carefully.
 2. Gather her pills onto a small square of paper towel, into a pharmaceutical mise en place of sorts. 
 3. Grab a small scoop of wet dog food with one hand.
@@ -45,8 +47,6 @@ Medication is given twice a day. Hiding her pills in a dogfood meatball is the e
 5. Press each pill into the smear of peanut butter.
 6. Spread another smear of peanut butter on top, sealing the pills in place.
 7. Top the meatball off with another scoop of wet dogfood, and form into a sphere.
-
-![Meatbell](meatball.jpg)
 
 At some point in this process, Beta will have realized what's going down, and should now be underfoot. Bend down and present the meatball to her. She will give it a sniff and house it directly out of your hand.
 
