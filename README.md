@@ -55,6 +55,7 @@ In the morning, she gets:
 - 125mg mycophenolate (1 pill)
 - 50mg cyclosporine (1 pill)
 - 10mg fluoxetine (1 pill)
+- 3mg melatonin (1 pill)
 - Half a pepcid (they should be pre-cut)
 
 Every other day—on odd days during the month of May—she also gets 1.25mg of prednisone. We'll have some pre-cut pills in a small baggie, but if you should run out, use the pill cutter to snip a 5mg pill into quarters.
@@ -65,6 +66,7 @@ Her evening pill regimen is simpler:
 
 - 50mg cyclosporine (1 pill)
 - 125mg mycophenolate (1 pill)
+- 3mg melatonin (1 pill)
 - Half a pepcid
 - 10 drops of rescue remedy on a bit of wet food
 
