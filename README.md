@@ -32,7 +32,7 @@ As you may already be aware, Beta is on a regimen of immunosuppressive drugs fol
 
 Her initial high-dose course of prednisone made her hella thirsty. High water input leads to high... output. Recognizing the impracticality of taking her on 172 walks a day, we gave in and trained her to go on wee wee pads.
 
-And while her prenisone dosage—and subsequent ravenous thirst—has since tapered considerably, she has grown accustomed to the convenience and immediacy of peeing and pooping indoors whenever she pleases. Old dog, new tricks, something something something. It's easier to just let her do her thing. (She still gets her morning and evening walks.)
+And while her prednisone dosage—and subsequent ravenous thirst—has since tapered considerably, she has grown accustomed to the convenience and immediacy of peeing and pooping indoors whenever she pleases. Old dog, new tricks, something something something. It's easier to just let her do her thing. (She still gets her morning and evening walks.)
 
 The pads are strictly single-use, so once soiled, promptly discard and replace, or she'll relieve herself *near* the pad when nature next calls. We've found it helpful to leave two pads out before going to bed, just in case.
 
