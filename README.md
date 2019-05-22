@@ -46,6 +46,8 @@ Medication is given twice a day. Hiding her pills in a dogfood meatball is the e
 6. Spread another smear of peanut butter on top, sealing the pills in place.
 7. Top the meatball off with another scoop of wet dogfood, and form into a sphere.
 
+![Meatbell](meatball.jpg)
+
 At some point in this process, Beta will have realized what's going down, and should now be underfoot. Bend down and present the meatball to her. She will give it a sniff and house it directly out of your hand.
 
 In the morning, she gets:
