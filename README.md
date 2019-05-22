@@ -10,7 +10,7 @@ Welcome to Jersey City! Located conveniently across the Hudson River from Manhat
 
 While our new 'hood may lack some of the "character" of the Village, all of life's necessities are still close-at-hand: [Hudson Greene Market](http://www.hudsongreenemarket.com/) offers healthy groceries; [Liberty Wine and Deli](https://www.yelp.com/biz/liberty-wine-and-deli-jersey-city) offers healthy bourbons and other spirits; and [Downtown Pharmacy](https://www.downtownpharmacyjc.com/) offers a pharmacy that is downtown. (There's also now a [CVS](https://www.cvs.com/) across the street, if you're into that whole corporate chain thing.)
 
-The excitement of Big Apple is but a single stop away on the PATH. From the World Trade Center Transit Hub (aka "The Oculus") you can catch the ①, ⒶⒸⒺ, ⓇⓌ, ⒿⓏ, and ④⑤.
+The excitement of The Big Apple is but a single stop away on the PATH. From the World Trade Center Transit Hub (aka "The Oculus") you can catch the ①, ⒶⒸⒺ, ⓇⓌ, ⒿⓏ, and ④⑤.
 
 The PATH to WTC will be closed on non-holiday weekends for the next two fucking years for Hurricane Sandy repairs, but you can present a SmartLink card at the [Harborside Ferry Landing](https://www.nywaterway.com/HarborsideFerryLanding.aspx) for a free ferry ride to [Brookfield Place](https://www.nywaterway.com/WorldFinancialCenterTerminal.aspx). It's always best to check the [PATH website](https://www.panynj.gov/path/) before heading into the city over the weekend.
 
