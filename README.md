@@ -73,6 +73,8 @@ Her evening pill regimen is simpler:
 
 You can reach Beta's vet, Dr. John Gagliardi, at (212) 777-2630. In an emergency, call Blue Pearl Animal Hospital at (212) 924-3113.
 
+Beta's crate is equipped with a [Tactical Canine Surveillance System](https://dansays.cloud/betacam/), should you wish to monitor her sleep patterns remotely.
+
 ## Meet your delivery persons
 
 Our good friends, Dan & Katie (no relation), have helpfully provided local food options, should you not wish to travel into the city:
