@@ -71,6 +71,8 @@ Her evening pill regimen is simpler:
 - Half a pepcid
 - 10 drops of rescue remedy on a bit of wet food
 
+You can reach Beta's vet, Dr. John Gagliardi, at (212) 777-2630. In an emergency, call Blue Pearl Animal Hospital at (212) 924-3113.
+
 ## Meet your delivery persons
 
 Our good friends, Dan & Katie (no relation), have helpfully provided local food options, should you not wish to travel into the city:
