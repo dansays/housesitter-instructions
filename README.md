@@ -116,11 +116,11 @@ If you need to know where anything is, Alexa will hook you up.
 
 As you may already be aware, Beta is on a regimen of immunosuppressive drugs following a relapse of [IMHA](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Hemolytic-Anemia-Canine.pdf) (Immune-Mediated Hemolytic Anemia) and [ITP](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Thrombocytopenia-Canine.pdf) (Immune-Mediated Thrombocytopenia). TL;DR: her immune system attacks and destroys its own platelets and red blood cells.
 
-Medication is given twice a day. Hiding her pills in a dogfood and peanutbutter meatball is the easiest way for the medicine to go down. 
+Medication is given twice a day. Hiding her pills in a dogfood and peanut butter meatball is the easiest way for the medicine to go down. 
 
-Here's the technique we use:
+Here's the technique we use. Please note: the pills in the picture below may differ from the ones on her list. Her medications change over time, and the list is always kept up-to-date.
 
-![Meatbell](meatball.jpg)
+![Meatball](meatball.jpg)
 
 1. Wear latex gloves! She's on some heavy-duty shit that has to be handled carefully.
 2. Gather her pills onto a small square of paper towel, into a pharmaceutical mise en place of sorts. 
