@@ -42,6 +42,8 @@ All the controllers you might need are in the gray drawer under the Peachtree au
 
 Yes, it's actually called that. Just follow the paw prints and signs, or better yet, just let Beta lead. She knows the way.
 
+Upon returning from your walk, please wipe Beta's feet and lady bits with the Nature's Miracle wipes, located in the top drawer of the grey cabinet by the entryway. Her feet are a bit sensitive, so please be gentle. As a reward, you may give her a Dentastix after your first walk of the day; and 2-3 Chicken Apple Bark chips thereafter.
+
 ### Pro Fit Gym
 
 Our 24-hour fitness center includes free weights, cardio equipment, Peloton bikes, and a yoga studio. There's also an Outrace Fitness System, an outdoor multi-training... thing. It's cool. Kind of like a jungle gym for adults.
@@ -110,6 +112,8 @@ If you need to know where anything is, Alexa will hook you up.
 
 ## Meet your four-legged roommate
 
+### Feeding & Medication
+
 As you may already be aware, Beta is on a regimen of immunosuppressive drugs following a relapse of [IMHA](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Hemolytic-Anemia-Canine.pdf) (Immune-Mediated Hemolytic Anemia) and [ITP](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Thrombocytopenia-Canine.pdf) (Immune-Mediated Thrombocytopenia). TL;DR: her immune system attacks and destroys its own platelets and red blood cells.
 
 Medication is given twice a day. Hiding her pills in a dogfood and peanutbutter meatball is the easiest way for the medicine to go down. 
@@ -156,6 +160,18 @@ Dinner:
 - 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) 
 - 1 scoop dry food
 
+### Water
+
+Beta is usually only given water when fed. Fill her bowl about halfway with lukewarm water. If it's too cold, she may throw it back up (but don't be alarmed if that happens! It's pretty common in older doggos).
+
+### Emergencies
+
 You can reach Beta's vet, Dr. Gorksi, at (213) 613-1537, during normal business hours: weekdays 8am-7pm, and weekends 8am-noon. **In the event of an after-hours emergency,** [ACCESS Specialty Animal Hospital](https://accessanimalhospitals.com) in Culver City is the nearest 24-hour emergency care facility. Jump in a Lyft, and give them a call at (310) 558-6100 to let them know you're on your way. Naturally, we'll reimburse you for any costs.
 
-If she happens to have an accident inside the house, wipe it up with paper towels and then pour a small amount of Nature's Miracle on it as well. It is located under the sink in a red jug. 
+### "Accidents"
+
+If she happens to have an accident inside the house, wipe it up with paper towels and then pour a small amount of Nature's Miracle on it as well. It is located under the sink in a red jug.
+
+### When You Go Out
+
+Beta is crated when you leave the apartment without her. Grab a Kong Toy from the freezer, or a few Chicken Apple Bark chips, show them to her, then toss them in her crate. Close the crate door once she's inside. We find it helpful to close the bedroom door behind us when we leave, so she wont wake up if there's a noise in the hallway.
