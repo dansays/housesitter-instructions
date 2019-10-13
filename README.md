@@ -12,7 +12,13 @@ Once on the twelfth floor, proceed to apartment 1215: your home away from home. 
 
 In the entryway, you'll find two sets of light switches. The bank along the outside wall (closer to the door) control the hallway and kitchen overhead lights; the Hue switch next to the thermostat (closer to the fridge) controls everything else. Press the top button on the Hue switch to cycle through the various lighting scenes in the main living area.
 
+The drawers in the front entryway have Beta's things (top drawer) as well as all the chargers/charging cables you might need (drawer second from the top).
+
 We're a shoes-off apartment. There's a small space beneath the drawers in the front entryway for you to stow your kicks. If you happen to need it, the vacuum cleaner is mounted to the wall in the bedroom closet.
+
+There is extra toilet paper and extra towels in the lower cabinet to the left of the bathroom sink. There are also extra paper towel rolls in the cabinet above the sink. 
+
+Feel free to do laundry as well. Tide Pods are above the washer/dryer. 
 
 ## Release The Hound
 
@@ -23,6 +29,8 @@ When we're away, Beta stays in a crate located in our bedroom. Go ahead and let 
 On the inside door of the upper cabinet located to the right of the refrigerator, you will find a QR code. If you've got an iPhone, just point your camera app at the code, and you'll see a "Join Umami" action appear at the top of your screen. Tap it, and you're online. (Android users, you're on your own. Maybe [this](https://www.androidpolice.com/2019/03/13/android-q-lets-you-share-and-connect-to-wifi-networks-with-qr-codes/) will help?)
 
 ## Hey, Siri
+
+Want to watch TV or play some video games or do some VR?
 
 "Hey, Siri! Turn on/off the Television/Playstation/Nintendo." Note that Siri can't actually turn on the Nintendo Switch, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
 
@@ -149,3 +157,5 @@ Dinner:
 - 1 scoop dry food
 
 You can reach Beta's vet, Dr. Gorksi, at (213) 613-1537, during normal business hours: weekdays 8am-7pm, and weekends 8am-noon. **In the event of an after-hours emergency,** [ACCESS Specialty Animal Hospital](https://accessanimalhospitals.com) in Culver City is the nearest 24-hour emergency care facility. Jump in a Lyft, and give them a call at (310) 558-6100 to let them know you're on your way. Naturally, we'll reimburse you for any costs.
+
+If she happens to have an accident inside the house, wipe it up with paper towels and then pour a small amount of Nature's Miracle on it as well. It is located under the sink in a red jug. 
