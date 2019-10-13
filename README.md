@@ -34,7 +34,7 @@ Want to watch TV or play some video games or do some VR?
 
 "Hey, Siri! Turn on/off the Television/Playstation/Nintendo." Note that Siri can't actually turn on the Nintendo Switch, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
 
-All the controllers you might need are in the gray drawer under the Peachtree audio unit. Gently push and it will open.
+All the controllers you might need are in the gray drawer under the Peachtree audio unit. [Gently push and it will open](https://youtu.be/TlTb0o2XAyg).
 
 ## Building Amenities (7th Floor)
 
