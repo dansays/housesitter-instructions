@@ -1,20 +1,22 @@
 ## Welcome!
 
-Please pick up your key fob at the front desk. This fob allows you access to everything you need, including common areas, elevators, our apartment, and the building itself.
+Please pick up your key fob at the front desk. It will be listed by one of us under your full legal name.
+
+This fob allows you access to everything you need, including common areas, elevators, our apartment, and the building itself.
 
 Once you have your key fob, proceed to the elevators. Scan your fob by holding it beneath the black touchpad, then tap "resident floors". Tap the left arrow to navigate to the lower block of floors, then tap 12. The screen will indicate the elevator to which you've been assigned.
 
 ## Our Apartment
 
-Once on the twelfth floor, proceed to apartment 1215: your home away from home. Scan your key fob at our door to unlock; when leaving, do likewise, but bear in mind that it takes a moment for the deadbolt to engage.
+Once on the twelfth floor, proceed to apartment 1215: your home away from home. Scan your key fob at our door to unlock; when leaving, do likewise, but bear in mind that it takes a moment for the deadbolt to engage. When locking the door, wait for the green light to flash and you should hear the sound of the door locking itself.
 
-In the entryway, you'll find two sets of light switches. The bank along the outside wall control the hallway and kitchen overhead lights; the Hue switch next to the thermostat controls everything else. Press the top button on the Hue switch to cycle through the various lighting scenes in the main living area.
+In the entryway, you'll find two sets of light switches. The bank along the outside wall (closer to the door) control the hallway and kitchen overhead lights; the Hue switch next to the thermostat (closer to the fridge) controls everything else. Press the top button on the Hue switch to cycle through the various lighting scenes in the main living area.
 
-We're a shoes-off apartment. There's a small space beneath the drawers in the front entryway for you to stow your kicks.
+We're a shoes-off apartment. There's a small space beneath the drawers in the front entryway for you to stow your kicks. If you happen to need it, the vacuum cleaner is mounted to the wall in the bedroom closet.
 
 ## Release The Hound
 
-When we're away, Beta stays in a crate located in our bedroom. Go ahead and let her out. We're sorry about the barking. It will stop once she concludes that you're not a threat, which can take anywhere from a few minutes to an hour. To prevent the latter, there are treats in a plastic bin atop the bookshelf. Establish yourself as a source of food, and she will be on her best behavior.
+When we're away, Beta stays in a crate located in our bedroom. Go ahead and let her out. We're sorry about the barking. It will stop once she concludes that you're not a threat, which can take anywhere from a few minutes to an hour. To prevent the latter, there are treats in a plastic tub atop the bookshelf. Establish yourself as a source of food, and she will be on her best behavior.
 
 ## WiFi Access
 
@@ -24,11 +26,13 @@ On the inside door of the upper cabinet located to the right of the refrigerator
 
 "Hey, Siri! Turn on/off the Television/Playstation/Nintendo." Note that Siri can't actually turn on the Nintendo Switch, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
 
-## Building Amenities
+All the controllers you might need are in the gray drawer under the Peachtree audio unit. Gently push and it will open.
+
+## Building Amenities (7th Floor)
 
 ### Wooftop Dog Run
 
-Yes, it's actually called that. Just follow the paw prints, or better yet, just let Beta lead. She knows the way.
+Yes, it's actually called that. Just follow the paw prints and signs, or better yet, just let Beta lead. She knows the way.
 
 ### Pro Fit Gym
 
@@ -55,15 +59,19 @@ The California Deck also features:
 - Saltwater swimming pool
 - Lounge chairs with sunshades
 - Lounge chairs without sunshades
+- Lounge beds 
 - Hot tub
 - Basketball court
 - Beach volleyball court
+- Fruit trees with free fruit
 - Cornhole court
 - Gas grills
 - Gas fireplaces
 - Gas billiards table
-- Big-ass television
-- Healthy snack & meal vending machines
+- Big-ass television and a few smaller TVs
+- Outdoor patio
+- Private kitchen (which costs $ to rent)
+- Healthy snack & meal vending machines (which require an app)
 - Free coffee- and espresso-dispensing robot
 - Co-working space with quiet desks and conference rooms
 
@@ -71,13 +79,15 @@ Glassware is not allowed in the common areas. If you wish to enjoy a bourbon by 
 
 Dogs are also not allowed in the common areas (apart from the dog run, obviously). If you wish to enjoy a dog by the fire, Instagram will provide you with a wide assortment of adorable photos.
 
-The building provides wifi in all common areas. The password for the "Aven Guest" network is `Beourguest`.
+The building provides wifi in all common areas. The password for the "Aven Guest" network is `beourguest`.
 
 **Pro tip:** if you look in the reflection of the building across the street, you can tell how busy the pool is from our apartment!
 
 ### The Ojai Deck
 
 On the 32nd floor, you'll find an additional fireplace, quiet and comfortable seating, fresh citrus trees, and panoramic views of the city (including the Hollywood sign).
+
+No dogs are allowed in this area.
 
 ## Meet your robot roommate
 
@@ -94,7 +104,9 @@ If you need to know where anything is, Alexa will hook you up.
 
 As you may already be aware, Beta is on a regimen of immunosuppressive drugs following a relapse of [IMHA](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Hemolytic-Anemia-Canine.pdf) (Immune-Mediated Hemolytic Anemia) and [ITP](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Thrombocytopenia-Canine.pdf) (Immune-Mediated Thrombocytopenia). TL;DR: her immune system attacks and destroys its own platelets and red blood cells.
 
-Medication is given twice a day. Hiding her pills in a dogfood meatball is the easiest way for the medicine to go down. Here's the technique we use:
+Medication is given twice a day. Hiding her pills in a dogfood and peanutbutter meatball is the easiest way for the medicine to go down. 
+
+Here's the technique we use:
 
 ![Meatbell](meatball.jpg)
 
@@ -106,21 +118,34 @@ Medication is given twice a day. Hiding her pills in a dogfood meatball is the e
 6. Spread another smear of peanut butter on top, sealing the pills in place.
 7. Top the meatball off with another scoop of wet dogfood, and form into a sphere.
 
-At some point in this process, Beta will have realized what's going down, and should now be underfoot. Place the meatball on the floor, and walk away. She will inspect your offering, and if it pleases her, she will consume it. Your presence during this ritual can inhibit this process. I like to walk into the bathroom, where I can quietly monitor the process from the mirror.
+At some point in this process, Beta will have realized what's going down, and should now be underfoot. Place the meatball on the floor, and walk away. She will inspect your offering, and if it pleases her, she will consume it. Your presence during this ritual can inhibit this process. I like to walk into the bathroom, where I can quietly monitor the process from the mirror. Sometimes it takes a while for her to decide to eat it.
 
-In the morning, she gets:
+In the morning, she gets the following as a meatball:
 
-- 125mg mycophenolate (1 orange pill)
-- 50mg cyclosporine (1 yellow pill)
-- 10mg fluoxetine (1 pill)
-- Half a pepcid (they should be pre-cut for you already)
+- 125mg mycophenolate (1/4 of a white pill, pre-cut)
+- 50mg cyclosporine (1 big yellow pill)
+- 10mg fluoxetine (1 white/blue pill)
+- Half a pepcid (1/2 a small pink pill, they should be pre-cut for you already)
 
-After she has her drug meatball, she gets breakfast: more wet food (about half a can in total), with 1/8th teaspoon each of Tylan and Entoroflora powders (located in the refrigerator) mixed in to aid digestion, and 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) to manage her separation anxiety. There is a ⅛tsp measuring spoon in the fridge as well. Top with a 1-cup scoop of dry food.
+After she has her drug meatball, she gets breakfast: 
 
-Her evening pill regimen is simpler:
+- 1/2 can wet food 
+- 1/8th teaspoon Tylan powder (located in the refrigerator)
+- 1/8th teaspoon Entoroflora powders (located in the refrigerator) 
+- 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) 
+- 2 scoops dry food
 
-- 125mg mycophenolate (1 pill)
-- Half a pepcid
-- 10 drops of rescue remedy on a bit of wet food
+There is a ⅛tsp measuring spoon in the fridge as well. 
+
+Her evening pill regimen is simpler.
+
+Evening meatball:
+
+- 125mg mycophenolate (1/4 of a white pill, pre-cut)
+- Half a pepcid (1/2 a small pink pill, they should be pre-cut for you already)
+
+Dinner:
+- 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) 
+- 1 scoop dry food
 
 You can reach Beta's vet, Dr. Gorksi, at (213) 613-1537, during normal business hours: weekdays 8am-7pm, and weekends 8am-noon. **In the event of an after-hours emergency,** [ACCESS Specialty Animal Hospital](https://accessanimalhospitals.com) in Culver City is the nearest 24-hour emergency care facility. Jump in a Lyft, and give them a call at (310) 558-6100 to let them know you're on your way. Naturally, we'll reimburse you for any costs.
