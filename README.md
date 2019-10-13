@@ -1,31 +1,89 @@
-Welcome to Jersey City! Located conveniently across the Hudson River from Manhattan, our neighborhood offers many amenities not afforded us in our former West Village apartment, such as:
+## Welcome!
 
-- An outdoor pool and fire pit!
-- A functional shower drain!
-- A 24-hour fitness center!
-- Control over the temperature of our apartment!
-- In-unit washer and dryer!
-- Peace and quiet!
-- Virtual golf, for some reason?
+Please pick up your key fob at the front desk. This fob allows you access to everything you need, including common areas, elevators, our apartment, and the building itself.
 
-While our new 'hood may lack some of the "character" of the Village, all of life's necessities are still close-at-hand: [Hudson Greene Market](http://www.hudsongreenemarket.com/) offers healthy groceries; [Liberty Wine and Deli](https://www.yelp.com/biz/liberty-wine-and-deli-jersey-city) offers healthy bourbons and other spirits; and [Downtown Pharmacy](https://www.downtownpharmacyjc.com/) offers a pharmacy that is downtown. (There's also now a [CVS](https://www.cvs.com/) across the street, if you're into that whole corporate chain thing.)
+Once you have your key fob, proceed to the elevators. Scan your fob by holding it beneath the black touchpad, then tap "resident floors". Tap the left arrow to navigate to the lower block of floors, then tap 12. The screen will indicate the elevator to which you've been assigned.
 
-The excitement of The Big Apple is but a single stop away on the PATH. From the World Trade Center Transit Hub (aka "The Oculus") you can catch the ①, ⒶⒸⒺ, ⓇⓌ, ⒿⓏ, and ④⑤.
+## Our Apartment
 
-The PATH to WTC will be closed on non-holiday weekends for the next two fucking years for Hurricane Sandy repairs, but you can present a SmartLink card at the [Harborside Ferry Landing](https://www.nywaterway.com/HarborsideFerryLanding.aspx) for a free ferry ride to [Brookfield Place](https://www.nywaterway.com/WorldFinancialCenterTerminal.aspx). It's always best to check the [PATH website](https://www.panynj.gov/path/) before heading into the city over the weekend.
+Once on the twelfth floor, proceed to apartment 1215: your home away from home. Scan your key fob at our door to unlock; when leaving, do likewise, but bear in mind that it takes a moment for the deadbolt to engage.
 
-## Gaining access to the apartment
+In the entryway, you'll find two sets of light switches. The bank along the outside wall control the hallway and kitchen overhead lights; the Hue switch next to the thermostat controls everything else. Press the top button on the Hue switch to cycle through the various lighting scenes in the main living area.
 
-Most likely we have put you on the "authorized users" list. When you arrive, you must surrender your ID and sign your name to get the temporary spare key. Please use this to enter the apartment, and then return it right away.
+We're a shoes-off apartment. There's a small space beneath the drawers in the front entryway for you to stow your kicks.
 
-A different set of keys and a PATH SmartLink card will be waiting for you on the counter.
+## Release The Hound
+
+When we're away, Beta stays in a crate located in our bedroom. Go ahead and let her out. We're sorry about the barking. It will stop once she concludes that you're not a threat, which can take anywhere from a few minutes to an hour. To prevent the latter, there are treats in a plastic bin atop the bookshelf. Establish yourself as a source of food, and she will be on her best behavior.
+
+## WiFi Access
+
+On the inside door of the upper cabinet located to the right of the refrigerator, you will find a QR code. If you've got an iPhone, just point your camera app at the code, and you'll see a "Join Umami" action appear at the top of your screen. Tap it, and you're online. (Android users, you're on your own. Maybe [this](https://www.androidpolice.com/2019/03/13/android-q-lets-you-share-and-connect-to-wifi-networks-with-qr-codes/) will help?)
+
+## Hey, Siri
+
+"Hey, Siri! Turn on/off the Television/Playstation/Nintendo." Note that Siri can't actually turn on the Nintendo Switch, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
+
+## Building Amenities
+
+### Wooftop Dog Run
+
+Yes, it's actually called that. Just follow the paw prints, or better yet, just let Beta lead. She knows the way.
+
+### Pro Fit Gym
+
+Our 24-hour fitness center includes free weights, cardio equipment, Peloton bikes, and a yoga studio. There's also an Outrace Fitness System, an outdoor multi-training... thing. It's cool. Kind of like a jungle gym for adults.
+
+Orangetheory Fitness hosts free classes on Mondays and Thursdays at 7pm. Complimentary yoga classes are also offered on Saturday mornings at 9:00.
+
+Your workout plan for 5am tomorrow morning is as follows:
+
+| Exercise         | Sets | Reps |
+| ---------------- | ---- | ---- |
+| Barbell Squats   | 5    | 5    |
+| Bench Press      | 5    | 5    |
+| Barbell Shrugs   | 5    | 5    |
+| Tricep Extension | 3    | 8    |
+| Bicep Curls      | 3    | 8    |
+
+Just kidding. You can do this workout at whatever time of day you choose. Just make sure to stretch afterwards.
+
+### Other Amenities
+
+The California Deck also features:
+
+- Saltwater swimming pool
+- Lounge chairs with sunshades
+- Lounge chairs without sunshades
+- Hot tub
+- Basketball court
+- Beach volleyball court
+- Cornhole court
+- Gas grills
+- Gas fireplaces
+- Gas billiards table
+- Big-ass television
+- Healthy snack & meal vending machines
+- Free coffee- and espresso-dispensing robot
+- Co-working space with quiet desks and conference rooms
+
+Glassware is not allowed in the common areas. If you wish to enjoy a bourbon by the fire, there are plastic old fashioned glasses in the cabinet above the coffee maker.
+
+Dogs are also not allowed in the common areas (apart from the dog run, obviously). If you wish to enjoy a dog by the fire, Instagram will provide you with a wide assortment of adorable photos.
+
+The building provides wifi in all common areas. The password for the "Aven Guest" network is `Beourguest`.
+
+**Pro tip:** if you look in the reflection of the building across the street, you can tell how busy the pool is from our apartment!
+
+### The Ojai Deck
+
+On the 32nd floor, you'll find an additional fireplace, quiet and comfortable seating, fresh citrus trees, and panoramic views of the city (including the Hollywood sign).
 
 ## Meet your robot roommate
 
 If you need help with anything, just ask, "Alexa, open the apartment guide." She knows where everything is and is located next to the coffee maker. You can ask her things like:
 
 - Where is the dog leash?
-- What's the wifi password?
 - How do I turn on the television?
 - What's the phone number for the vet?
 - When will this dystopian nightmare finally end?
@@ -34,15 +92,7 @@ If you need to know where anything is, Alexa will hook you up.
 
 ## Meet your four-legged roommate
 
-As you may already be aware, Beta is on a regimen of immunosuppressive drugs following a relapse of [IMHA](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Hemolytic-Anemia-Canine.pdf) (Immune Mediated Hemolytic Anemia).
-
-Her initial high-dose course of prednisone made her hella thirsty. High water input leads to high... output. Recognizing the impracticality of taking her on 172 walks a day, we gave in and trained her to go on wee wee pads.
-
-And while her prednisone dosage—and subsequent ravenous thirst—has since tapered considerably, she has grown accustomed to the convenience and immediacy of peeing and pooping indoors whenever she pleases. Old dog, new tricks, something something something. It's easier to just let her do her thing. (She still gets her morning and evening walks.)
-
-The pads are strictly single-use, so once soiled, promptly discard and replace, or she'll relieve herself *near* the pad when nature next calls. We've found it helpful to leave two pads out before going to bed, just in case. 
-
-Extra pads are in the white Kallax unit next to the kitchen counter, in the blue bottom-left bin.
+As you may already be aware, Beta is on a regimen of immunosuppressive drugs following a relapse of [IMHA](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Hemolytic-Anemia-Canine.pdf) (Immune-Mediated Hemolytic Anemia) and [ITP](http://scvsec.com/wp-content/uploads/2014/04/Immune-Mediated-Thrombocytopenia-Canine.pdf) (Immune-Mediated Thrombocytopenia). TL;DR: her immune system attacks and destroys its own platelets and red blood cells.
 
 Medication is given twice a day. Hiding her pills in a dogfood meatball is the easiest way for the medicine to go down. Here's the technique we use:
 
@@ -56,63 +106,21 @@ Medication is given twice a day. Hiding her pills in a dogfood meatball is the e
 6. Spread another smear of peanut butter on top, sealing the pills in place.
 7. Top the meatball off with another scoop of wet dogfood, and form into a sphere.
 
-At some point in this process, Beta will have realized what's going down, and should now be underfoot. Bend down and present the meatball to her. She will give it a sniff and house it directly out of your hand.
+At some point in this process, Beta will have realized what's going down, and should now be underfoot. Place the meatball on the floor, and walk away. She will inspect your offering, and if it pleases her, she will consume it. Your presence during this ritual can inhibit this process. I like to walk into the bathroom, where I can quietly monitor the process from the mirror.
 
 In the morning, she gets:
 
 - 125mg mycophenolate (1 orange pill)
 - 50mg cyclosporine (1 yellow pill)
 - 10mg fluoxetine (1 pill)
-- 3mg melatonin (1 pill)
 - Half a pepcid (they should be pre-cut for you already)
 
-(Starting in July, she is no longer on prednisone! Thank God.)
-
-After she has her meatball, she gets some breakfast: more wet food (about half a can in total), with 1/8th teaspoon each of Tylan and Entoroflora powders (located in the refrigerator) mixed in to aid digestion, and 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) to chill her the fuck out. There is a 1/8th teaspoon in the fridge as well. Top with a 1-cup scoop of dry food.
+After she has her drug meatball, she gets breakfast: more wet food (about half a can in total), with 1/8th teaspoon each of Tylan and Entoroflora powders (located in the refrigerator) mixed in to aid digestion, and 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) to manage her separation anxiety. There is a ⅛tsp measuring spoon in the fridge as well. Top with a 1-cup scoop of dry food.
 
 Her evening pill regimen is simpler:
 
-- 50mg cyclosporine (1 pill)
 - 125mg mycophenolate (1 pill)
-- 3mg melatonin (1 pill)
 - Half a pepcid
 - 10 drops of rescue remedy on a bit of wet food
 
-You can reach Beta's vet, Dr. John Gagliardi, at (212) 777-2630. 
-
-In an emergency, call Blue Pearl Animal Hospital at (212) 924-3113.
-
-Beta's crate is equipped with a [Tactical Canine Surveillance System](https://dansays.cloud/betacam/), should you wish to monitor her sleep patterns remotely.
-
-## Meet your delivery persons
-
-Our good friends, Dan & Katie (no relation), have helpfully provided local food options, should you not wish to travel into the city:
-
-- Mexican: [Taqueria Downtown](http://www.taqueriadowntowncateringco.com) or [Tacos Victoria](http://tacosvictoria.com)
-- Indian: [Amiya](http://www.amiyarestaurant.com)
-- Turkish: [Rumi](http://rumiturkishgrill.com) (right across the street)
-- American: [Amelia’s Bistro](http://www.ameliasbistro.com)
-- Ramen: [Kitakata](http://ramenbannai.com)
-- Chinese: [Taste of North China](http://www.tasteofnorthchinajc.com)
-- Poke: [Tidal Poke](http://tidalpoke.co)
-- Specialty: [Wurstbar](https://www.wurstbarjc.com) (gourmet brats and dogs)
-
-We're also fond of [Matthews](https://www.mathewsfoodanddrink.com), and have enjoyed many a fine cocktail at both [Dullboy](https://www.dullboybar.com) and [The Archer](http://www.archerbar.com). And if you like pizza, [Razza](https://razzanj.com) is groin-grabbingly transcendent. (Expect a wait.)
-	
-## Apartment and building amenities
-
-Feel free to do laundry while you're here. Washer and dryer are located in the 2nd closet next to the door. Just note that the "time remaining" listed on the washer is sometimes a lie.
-
-The clock above the kitchen counter is definitely a lie; this clock is broken.
-
-The thermostat is located in the bedroom.
-
-Extra toilet paper is under the sink. Extra paper towels are in the kitchen pantry. 
-
-The trash chute/recycling is located next to the elevators. Additional liners are on a white roll under the sink. 
-
-Siri controls the TV and video game systems; however, it is better to use the switches to turn off and on the lights.
-
-Most of the building amenities are located on the 11th floor: the gym, the hot tub and pool, the fire pit, and the dog run. If you plan on going for a swim, please wear a blue wristband, located on the coat hanger next to the front door. (And please don't lose it! They're $200 to replace!)
-
-The pool and firepit are open at 10am and until 10pm Sundays through Thursdays, and 11pm on Fridays and Saturdays. No glass is allowed on the deck. 
+You can reach Beta's vet, Dr. Gorksi, at (213) 613-1537, during normal business hours: weekdays 8am-7pm, and weekends 8am-noon. **In the event of an after-hours emergency,** [ACCESS Specialty Animal Hospital](https://accessanimalhospitals.com) in Culver City is the nearest 24-hour emergency care facility. Jump in a Lyft, and give them a call at (310) 558-6100 to let them know you're on your way. Naturally, we'll reimburse you for any costs.
