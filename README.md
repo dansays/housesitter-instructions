@@ -30,9 +30,9 @@ On the inside door of the upper cabinet located to the right of the refrigerator
 
 ## Hey, Siri
 
-Want to watch TV or play some video games or do some VR?
+Want to watch TV or play some video games or do some VR? There are two remotes on the coffee table: one for the TV and one for the Apple TV. We also have an Oculus Quest on the left hand side under the TV. 
 
-"Hey, Siri! Turn on/off the Television/Playstation/Nintendo." Note that Siri can't actually turn on the Nintendo Switch, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
+Note that you can't actually turn on the Nintendo Switch using these, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
 
 All the controllers you might need are in the gray drawer under the Peachtree audio unit. [Gently push and it will open](https://youtu.be/TlTb0o2XAyg).
 
@@ -137,6 +137,7 @@ In the morning, she gets the following as a meatball:
 - 125mg mycophenolate (1/4 of a white pill, pre-cut)
 - 50mg cyclosporine (1 big yellow pill)
 - 10mg fluoxetine (1 white/blue pill)
+- 100mg Gabapentin (1 white pill)
 - Half a pepcid (1/2 a small pink pill, they should be pre-cut for you already)
 
 After she has her drug meatball, she gets breakfast: 
@@ -154,6 +155,7 @@ Her evening pill regimen is simpler.
 Evening meatball:
 
 - 125mg mycophenolate (1/4 of a white pill, pre-cut)
+- 100mg Gabapentin (1 white pill)
 - Half a pepcid (1/2 a small pink pill, they should be pre-cut for you already)
 
 Dinner:
@@ -162,7 +164,9 @@ Dinner:
 
 ### Water
 
-Beta is usually only given water when fed. Fill her bowl about halfway with lukewarm water. If it's too cold, she may throw it back up (but don't be alarmed if that happens! It's pretty common in older doggos).
+Beta is usually only given water when fed. Fill her bowl about halfway with lukewarm water at a time so she doesn't drink too much. If it's too cold, she may throw it back up (but don't be alarmed if that happens! It's pretty common in older doggos).
+
+We usually walk her first thing in the morning, after one of us gets home from work, and then again before bed time. 
 
 ### Emergencies
 
@@ -174,4 +178,6 @@ If she happens to have an accident inside the house, wipe it up with paper towel
 
 ### When You Go Out
 
-Beta is crated when you leave the apartment without her. Grab a Kong Toy from the freezer, or a few Chicken Apple Bark chips, show them to her, then toss them in her crate. Close the crate door once she's inside. We find it helpful to close the bedroom door behind us when we leave, so she wont wake up if there's a noise in the hallway.
+Beta is crated when you leave the apartment without her. Grab a few cookies from the tub, or a few Chicken Apple Bark chips, show them to her, then toss them in her crate. Close the crate door once she's inside. 
+
+We find it helpful to close both the bedroom door and the bathroom door behind us when we leave, so she wont wake up if there's a noise in the hallway.
