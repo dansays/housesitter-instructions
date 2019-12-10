@@ -30,7 +30,9 @@ On the inside door of the upper cabinet located to the right of the refrigerator
 
 ## TV and Games
 
-Want to watch TV or play some video games or do some VR? There are two remotes on the coffee table: one for the TV and one for the Apple TV. We also have an Oculus Quest on the left hand side under the TV. 
+Want to watch TV or play some video games or do some VR? Just use Siri for the TV or PS4/PSVR. 
+
+We also have an Oculus Quest on the left hand side under the TV. 
 
 Note that you can't actually turn on the Nintendo Switch using these, you have to do that manually. The Switch is in the cabinet along the window, beneath the turntable.
 
