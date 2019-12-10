@@ -28,7 +28,7 @@ When we're away, Beta stays in a crate located in our bedroom. Go ahead and let 
 
 On the inside door of the upper cabinet located to the right of the refrigerator, you will find a QR code. If you've got an iPhone, just point your camera app at the code, and you'll see a "Join Umami" action appear at the top of your screen. Tap it, and you're online. (Android users, you're on your own. Maybe [this](https://www.androidpolice.com/2019/03/13/android-q-lets-you-share-and-connect-to-wifi-networks-with-qr-codes/) will help?)
 
-## Hey, Siri
+## TV and Games
 
 Want to watch TV or play some video games or do some VR? There are two remotes on the coffee table: one for the TV and one for the Apple TV. We also have an Oculus Quest on the left hand side under the TV. 
 
