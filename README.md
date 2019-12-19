@@ -124,6 +124,10 @@ Here's the technique we use. Please note: the pills in the picture below may dif
 
 ![Meatball](meatball.jpg)
 
+![Breakbast](Betas_Breakfast.png)
+
+![Pill regiment as of December 2019](Betas_Pills_Dec_2019.jpg)
+
 1. Wear latex gloves! She's on some heavy-duty shit that has to be handled carefully.
 2. Gather her pills onto a small square of paper towel, into a pharmaceutical mise en place of sorts. 
 3. Grab a small scoop of wet dog food with one hand.
@@ -163,6 +167,8 @@ Evening meatball:
 Dinner:
 - 10 drops of Rescue Remedy (in the blue dropper, also in the fridge) 
 - 1 scoop dry food
+
+
 
 ### Water
 
