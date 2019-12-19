@@ -122,11 +122,9 @@ Medication is given twice a day. Hiding her pills in a dogfood and peanut butter
 
 Here's the technique we use. Please note: the pills in the picture below may differ from the ones on her list. Her medications change over time, and the list is always kept up-to-date.
 
+## How to Make a Meatball
+
 ![Meatball](meatball.jpg)
-
-![Breakbast](Betas_Breakfast.png)
-
-![Pill regiment as of December 2019](Betas_Pills_Dec_2019.jpg)
 
 1. Wear latex gloves! She's on some heavy-duty shit that has to be handled carefully.
 2. Gather her pills onto a small square of paper towel, into a pharmaceutical mise en place of sorts. 
@@ -137,6 +135,14 @@ Here's the technique we use. Please note: the pills in the picture below may dif
 7. Top the meatball off with another scoop of wet dogfood, and form into a sphere.
 
 At some point in this process, Beta will have realized what's going down, and should now be underfoot. Place the meatball on the floor, and walk away. She will inspect your offering, and if it pleases her, she will consume it. Your presence during this ritual can inhibit this process. I like to walk into the bathroom, where I can quietly monitor the process from the mirror. Sometimes it takes a while for her to decide to eat it.
+
+## Beta's Breakfast 
+
+![Breakbast](Betas_Breakfast.png)
+
+## Current Pill Regimen
+
+![Pill regiment as of December 2019](Betas_Pills_Dec_2019.jpg)
 
 In the morning, she gets the following as a meatball:
 
