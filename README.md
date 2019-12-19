@@ -30,7 +30,7 @@ On the inside door of the upper cabinet located to the right of the refrigerator
 
 ## TV and Games
 
-Want to watch TV or play some video games or do some VR? Just use Siri for the TV or PS4/PSVR. 
+Want to watch TV or play some video games or do some VR? Use the large black remote to turn on the TV and then switch inputs for the Switch, PS4, Apple TV, etc. 
 
 We also have an Oculus Quest on the left hand side under the TV. 
 
@@ -168,7 +168,7 @@ Dinner:
 
 Beta is usually only given water when fed. Fill her bowl about halfway with lukewarm water at a time so she doesn't drink too much. If it's too cold, she may throw it back up (but don't be alarmed if that happens! It's pretty common in older doggos).
 
-We usually walk her first thing in the morning, after one of us gets home from work, and then again before bed time. 
+We usually walk her first thing in the morning, after one of us gets home from work in the afternoon, and then again before bed time. 
 
 ### Emergencies
 
