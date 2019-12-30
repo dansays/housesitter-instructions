@@ -30,7 +30,7 @@ On the inside door of the upper cabinet located to the right of the refrigerator
 
 ## TV and Games
 
-Want to watch TV or play some video games or do some VR? Use the large black remote to turn on the TV and then switch inputs for the Switch, PS4, Apple TV, etc. 
+Want to watch TV or play some video games or do some VR? Use the large black remote to turn on the TV and then switch inputs for the Switch, PS4, Apple TV, etc. Note: please do not sign yourself into our Apple TV.
 
 We also have an Oculus Quest on the left hand side under the TV. 
 
